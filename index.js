@@ -1,4 +1,6 @@
-function newFunc() {
+function newFunc(x, y) {
+ let sum = x + y;
+ return sum;
     console.log("I'm very new")
 }
 
